@@ -1,4 +1,4 @@
-## Download :[Mercy Counter](https://2ly.link/1zrMu)
+## How To Download :[RSL Mercy Counter]
 *Download from Github:* Press Green Code Button - Download ZIP
 
 
