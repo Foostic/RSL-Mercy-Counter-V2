@@ -2,7 +2,9 @@
 *Download from Github:* Press Green Code Button - Download ZIP
 
 UPDATED: Web Based Version 2. (works on mac and mobile)
+
 https://rslmercycounter.netlify.app/
+
 V2 is currently unavailable for download.
 
 ---
