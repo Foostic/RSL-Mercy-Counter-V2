@@ -3,7 +3,7 @@
 
 ---
 
-UPDATED: Web Based Version 2. (works on mac and mobile)
+**UPDATED: Web Based Version 2. (also works on mac and mobile)**
 
 https://rslmercycounter.netlify.app/
 
