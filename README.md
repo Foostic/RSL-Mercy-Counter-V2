@@ -1,8 +1,3 @@
-## How To Download :[RSL Mercy Counter]
-*Download from Github:* Press Green Code Button - Download ZIP
-
----
-
 **UPDATED: Web Based Version 2. (also works on mac and mobile)**
 
 https://rslmercycounter.netlify.app/
@@ -12,6 +7,11 @@ https://rslmercycounter.netlify.app/
 <img width="1591" height="971" alt="image" src="https://github.com/user-attachments/assets/0e63de97-f017-492c-ab4a-7912b6977ac1" />
 
 
+
+## How To Download the old Windows version (Not Recommended)
+*Download from Github:* Press Green Code Button - Download ZIP
+
+---
 
 ---
 
