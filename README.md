@@ -7,7 +7,12 @@ https://rslmercycounter.netlify.app/
 [Direct Download](https://github.com/Foostic/RSL-Mercy-Counter-V2/releases/download/Windows/RSLMercyCounter-Setup.exe)
 <img width="1591" height="971" alt="image" src="https://github.com/user-attachments/assets/0e63de97-f017-492c-ab4a-7912b6977ac1" />
 
+### ⚠️ Known Issue – Primal Shard Legendary Counter
 
+The **Primal shard "Legendary" counter** is not working as intended.  
+- This is a **known issue**  
+- Will be **fixed in the next iteration**  
+- Affects both the **web-based version** and the **Windows 10/11 downloadable version**
 
 ## How To Download the old Windows version (Not Recommended)
 *Download from Github:* Press Green Code Button - Download ZIP
