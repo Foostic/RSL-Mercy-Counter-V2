@@ -3,6 +3,9 @@
 **WebBased Version**
 https://rslmercycounter.netlify.app/
 
+**Untested Windows 7+ Version**
+[Direct Download](https://github.com/Foostic/RSL-Mercy-Counter/releases/download/Win7/RSLMercyCounter-Win7Setup.exe)
+
 **Windows 10 / 11 Version**
 [Direct Download](https://github.com/Foostic/RSL-Mercy-Counter/releases/download/Windows/RSLMercyCounter-Setup-1.0.1.exe)
 <img width="1591" height="971" alt="image" src="https://github.com/user-attachments/assets/0e63de97-f017-492c-ab4a-7912b6977ac1" />
