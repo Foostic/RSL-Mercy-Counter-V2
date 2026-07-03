@@ -1,4 +1,4 @@
-**UPDATED: Windows 10 / 11 Version Available for download**
+**UPDATED: Windows Version Available for download**
 
 **WebBased Version**
 https://rslmercycounter.netlify.app/
