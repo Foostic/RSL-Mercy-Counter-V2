@@ -4,15 +4,17 @@
 https://rslmercycounter.netlify.app/
 
 **Windows 10 / 11 Version**
-[Direct Download](https://github.com/Foostic/RSL-Mercy-Counter-V2/releases/download/Windows/RSLMercyCounter-Setup.exe)
+[Direct Download](https://github.com/Foostic/RSL-Mercy-Counter/releases/download/Windows/RSLMercyCounter-Setup-1.0.1.exe)
 <img width="1591" height="971" alt="image" src="https://github.com/user-attachments/assets/0e63de97-f017-492c-ab4a-7912b6977ac1" />
 
-# ⚠️ Known Issues – Primal Shard & Mercy Counter 2x Bug
+Update Released – Bug Fixes
+This update resolves a couple of issues affecting shard tracking accuracy:
 
-- **Primal Shard "Legendary" counter** not working as intended → fixed in next iteration
-- **Mercy Counter** incorrectly doubles mercy % on 2x events (should only double base rate) → fixed in next iteration
+Fixed an issue where the Primal Shard Legendary counter was not updating correctly.
 
-Both affect web-based and Windows 10/11 versions.
+Fixed a bug where the Mercy Counter incorrectly doubled the mercy percentage during 2x events. Mercy now properly applies only to the base rate as intended.
+
+Both affect Windows 10/11 versions.
 
 ## How To Download the old Windows version (Not Recommended)
 *Download from Github:* Press Green Code Button - Download ZIP
